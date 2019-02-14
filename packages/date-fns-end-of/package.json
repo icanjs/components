@@ -1,0 +1,25 @@
+{
+  "name": "@icanjs/date-fns-end-of",
+  "version": "0.0.1",
+  "description": "date-fns end of any interval: endOf('week')",
+  "keywords": [
+    "date-fns"
+  ],
+  "author": "Marshall Thompson <marshall@creativeideal.net>",
+  "homepage": "https://github.com/icanjs/components",
+  "license": "MIT",
+  "main": "date-fns-end-of.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icanjs/components.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/icanjs/components/issues"
+  },
+  "dependencies": {
+    "date-fns": "^2.0.0-alpha.27"
+  }
+}

@@ -1,6 +1,8 @@
 {
+  "name": "components",
+  "private": true,
   "packages": [
     "packages/*"
   ],
-  "version": "0.0.0"
+  "version": "independent"
 }

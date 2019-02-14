@@ -1,0 +1,39 @@
+{
+  "name": "@icanjs/paginate-dates",
+  "version": "1.0.0",
+  "description": "Vue Renderless Component for Paginating Dates",
+  "keywords": [
+    "vue",
+    "renderless",
+    "dates"
+  ],
+  "author": "Marshall Thompson <marshall@creativeideal.net>",
+  "homepage": "https://github.com/icanjs",
+  "license": "MIT",
+  "main": "lib/paginate-dates.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icanjs/components.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/icanjs/components/issues"
+  },
+  "dependencies": {
+    "date-fns": "^2.0.0-alpha.27",
+    "@icanjs/date-fns-add": "0.0.1",
+    "@icanjs/date-fns-sub": "0.0.1",
+    "@icanjs/date-fns-start-of": "0.0.1",
+    "@icanjs/date-fns-end-of": "0.0.1"
+  },
+  "devDependencies": {}
+}
